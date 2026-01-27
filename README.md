@@ -4,6 +4,8 @@
 
 ### Please click the link below to find your session's hands-on instructions:
 
+## Hands-On Workshops
+
 - [Accessing data files on Cloud Object Storage from SAS® Viya](https://github.com/SASInnovate2026/Accessing-data-files-on-Cloud-Object-Storage-from-SAS-Viya)
 - [Building SAS® Viya Jobs](https://github.com/SASInnovate2026/Building-SAS-Viya-Jobs)
 - [Data-Driven Programming with CAS in SAS® Viya®](https://github.com/SASInnovate2026/Data-Driven-Programming-with-CAS-in-SAS-Viya)
@@ -28,6 +30,21 @@
 - [Using Container Objects, Object and Page Templates in SAS Visual Analytics](https://github.com/SASInnovate2026/Using-Container-Objects-Object-and-Page-Templates-in-SAS-Visual-Analytics)
 - [Using SAS Viya Jobs and Visual Analytics](https://github.com/SASInnovate2026/Using-SAS-Viya-Jobs-and-Visual-Analytics)
 - [Working with the SAS Extension for Visual Studio Code](https://github.com/SASInnovate2026/Working-with-the-SAS-Extension-for-Visual-Studio-Code)
+
+## Learning Labs
+
+- [Create Custom Steps with SAS® Studio](https://github.com/SASInnovate2026/Create-Custom-Steps-with-SAS-Studio)
+- [Easily Turn Your Automated Explanation into a Predictive Model](https://github.com/SASInnovate2026/Easily-Turn-Your-Automated-Explanation-into-a-Predictive-Model)
+- [Getting Started with PROC SUPERLEARNER - The Superpowered Proc for Machine Learning](https://github.com/SASInnovate2026/Getting-Started-with-PROC-SUPERLEARNER---The-Superpowered-Proc-for-Machine-Learning)
+- [Integrating SAS® Enterprise Guide with SAS® Viya®](https://github.com/SASInnovate2026/Integrating-SAS-Enterprise-Guide-with-SAS-Viya)
+- [Mapping Spatial Data with SAS Code](https://github.com/SASInnovate2026/Mapping-Spatial-Data-with-SAS-Code)
+- [PROC SQL: Zero to Hero](https://github.com/SASInnovate2026/PROC-SQL-Zero-to-Hero)
+- [Quick Start to the SAS® DATA Step](https://github.com/SASInnovate2026/Quick-Start-to-the-SAS-DATA-Step)
+- [Quick Start to the SAS® Macro Language](https://github.com/SASInnovate2026/Quick-Start-to-the-SAS-Macro-Language)
+- [Subflows in SAS® Viya®](https://github.com/SASInnovate2026/Subflows-in-SAS-Viya)
+- [Taking Back Control with the Interactive Modeling Node in SAS® Visual Forecasting](https://github.com/SASInnovate2026/Taking-Back-Control-with-the-Interactive-Modeling-Node-in-SAS-Visual-Forecasting)
+- [Using Expression-Based Parameters in SAS® Visual Analytics](https://github.com/SASInnovate2026/Using-Expression-Based-Parameters-in-SAS-Visual-Analytics)
+
 
 <br>
 <br>
