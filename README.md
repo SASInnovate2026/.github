@@ -18,6 +18,7 @@
 - [Modeling With Ease: End-to-end Machine Learning in Model Studio](https://github.com/SASInnovate2026/Modeling-With-Ease-End-to-end-Machine-Learning-in-Model-Studio)
 - [Microsoft Excel Proficiency with SAS® : Unlocking Data Insights and Dynamic Reporting](https://github.com/SASInnovate2026/Microsoft-Excel-Proficiency-with-SAS-Unlocking-Data-Insights-and-Dynamic-Reporting)
 - [No-code Data Generation using SAS Data Maker](https://github.com/SASInnovate2026/No-code-Data-Generation-using-SAS-Data-Maker)
+- [Options for Analyzing Database Tables Using SQL and FedSQL](https://github.com/SASInnovate2026Workshops/Options-for-Analyzing-Database-Tables-Using-SQL-and-FedSQL)
 - [The Polyglot Data Scientist: SAS, Python, & R in SAS Viya Workbench](https://github.com/SASInnovate2026/The-Polyglot-Data-Scientist-SAS-Python-R-in-SAS-Viya-Workbench)
 - [Predict the Next "Movie Classic" Blockbuster: Text Analytics in SAS Model Studio](https://github.com/SASInnovate2026/Predict-the-Next-Movie-Classic-Blockbuster-Text-Analytics-in-SAS-Model-Studio)
 - [SAS for Microsoft 365](https://github.com/SASInnovate2026/SAS-for-Microsoft-365)
