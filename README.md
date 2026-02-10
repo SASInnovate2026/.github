@@ -2,7 +2,10 @@
 
 <br/>
 
-### Please click the link below to find your session's hands-on instructions:
+### The Conference Website has our sessions categorized as :
+- Hands-On Workshops
+- Learning Sessions
+
 
 ## Hands-On Workshops
 
@@ -31,7 +34,7 @@
 - [Using SAS Viya Jobs and Visual Analytics](https://github.com/SASInnovate2026/Using-SAS-Viya-Jobs-and-Visual-Analytics)
 - [Working with the SAS Extension for Visual Studio Code](https://github.com/SASInnovate2026/Working-with-the-SAS-Extension-for-Visual-Studio-Code)
 
-## Learning Labs
+## Learning Sessions
 
 - [Create Custom Steps with SAS® Studio](https://github.com/SASInnovate2026/Create-Custom-Steps-with-SAS-Studio)
 - [Easily Turn Your Automated Explanation into a Predictive Model](https://github.com/SASInnovate2026/Easily-Turn-Your-Automated-Explanation-into-a-Predictive-Model)
@@ -44,7 +47,16 @@
 - [Subflows in SAS® Viya®](https://github.com/SASInnovate2026/Subflows-in-SAS-Viya)
 - [Taking Back Control with the Interactive Modeling Node in SAS® Visual Forecasting](https://github.com/SASInnovate2026/Taking-Back-Control-with-the-Interactive-Modeling-Node-in-SAS-Visual-Forecasting)
 - [Using Expression-Based Parameters in SAS® Visual Analytics](https://github.com/SASInnovate2026/Using-Expression-Based-Parameters-in-SAS-Visual-Analytics)
-
+- [Simplifying SAS® Viya®: Explaining the Compute and CAS Servers, Caslibs, and In-Memory Data](https://github.com/SASInnovate2026/Simplifying-SAS-Viya-Explaining-the-Compute-and-CAS-Servers-Caslibs-and-In-Memory-Data)
+- [Practical Tools for Ethical AI](https://github.com/SASInnovate2026/Practical-Tools-for-Ethical-AI)
+- [Top 10 SAS® Viya® Administration Tasks](https://github.com/SASInnovate2026/Top-10-SAS-Viya-Administration-Tasks)
+- [You + Me + ChatGPT Make Three: Getting Started with SAS® Coding](https://github.com/SASInnovate2026/You-Me-ChatGPT-Make-Three-Getting-Started-with-SAS-Coding)
+- [SAS® Intelligent Decisioning](https://github.com/SASInnovate2026/SAS-Intelligent-Decisioning)
+- [Top 10 performance tuning tips](https://github.com/SASInnovate2026/Top-10-performance-tuning-tips)
+- [Using SAS® Viya® Copilot to Develop Code, Reports, and Models](https://github.com/SASInnovate2026/Using-SAS-Viya-Copilot-to-Develop-Code-Reports-and-Models)
+- [Integrating R Programming in SAS®](https://github.com/SASInnovate2026/Integrating-R-Programming-in-SAS-)
+- [Git Integration with SAS Studio](https://github.com/SASInnovate2026/Git-Integration-with-SAS-Studio)
+- [Structuring data for Analytics](https://github.com/SASInnovate2026/Structuring-data-for-Analytics)
 
 <br>
 <br>
