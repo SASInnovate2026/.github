@@ -68,7 +68,6 @@
 - [Getting Started with Generative AI](https://github.com/SASInnovate2026/Getting-Started-with-Generative-AI)
 - [Quantum AI Concepts](https://github.com/SASInnovate2026/Quantum-AI-Concepts)
 - [SAS Studio for the Data Engineer](https://github.com/SASInnovate2026/SAS-Studio-for-the-Data-Engineer)
-- []()
 
 <br>
 <br>
