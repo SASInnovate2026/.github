@@ -1,4 +1,4 @@
-## Welcome to SAS Innovate 2026 Hands-On Workshop Repository! Here you will find instructions and other collateral related to the many hands-on sessions available at the conference.
+## Welcome to SAS Innovate 2026 Learning Repository!  Here you will find instructions and other collateral related to the many training sessions available at the conference.
 
 <br/>
 
