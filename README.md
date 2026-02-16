@@ -15,7 +15,7 @@
 
 ### Wednesday, April 29, 2026 
 
-| | Vineyard Tower - High Plains | Vineyard Tower - Mesilla | San Saba 1 | San Saba 2 |
+| | Vineyard Tower - High Plains  <br> (Hands On Workshop) | Vineyard Tower - Mesilla <br> (Hands On Workshop) | San Saba 1 <br> (Learning Lab) | San Saba 2 <br> (Learning Session) |
 |---|---|---|---|---|
 | 8:30-9:15 | [Geo mapping with SAS® Visual Analytics](https://github.com/SASInnovate2026/Geo-mapping-with-SAS-Visual-Analytics) | [How Do I Modify SAS9 Programs to Run in SAS Viya?](https://github.com/SASInnovate2026/How-Do-I-Modify-SAS9-Programs-to-Run-in-SAS-Viya) | [Quick Start to the SAS® Macro Language](https://github.com/SASInnovate2026/Quick-Start-to-the-SAS-Macro-Language) | [You + Me + ChatGPT Make Three: Getting Started with SAS® Coding](https://github.com/SASInnovate2026/You-Me-ChatGPT-Make-Three-Getting-Started-with-SAS-Coding) |
 | 9:30-10:15 | [Dashboarding:  Where Data Becomes Insights](https://github.com/SASInnovate2026/Dashboarding-Where-Data-Becomes-Insights) | [Tips & Tricks for Building a Custom Step in SAS Viya](https://github.com/SASInnovate2026/Tips-Tricks-for-Building-a-Custom-Step-in-SAS-Viya) | [Quick Start to the SAS® DATA Step](https://github.com/SASInnovate2026/Quick-Start-to-the-SAS-DATA-Step) | [Top 10 SAS® Viya® Administration Tasks](https://github.com/SASInnovate2026/Top-10-SAS-Viya-Administration-Tasks) |
@@ -27,7 +27,7 @@
 
 ### Thursday, April 30, 2026 
 
-| | Vineyard Tower - High Plains | Vineyard Tower - Mesilla |
+| | Vineyard Tower - High Plains  <br> (Hands On Workshop) | Vineyard Tower - Mesilla <br> (Hands On Workshop) |
 |---|---|---|
 | 10:30-11:15 | [SAS Viya Overview: The Analytics Life Cycle](https://github.com/SASInnovate2026/SAS-Viya-Overview-The-Analytics-Life-Cycle) | [Predict the Next "Movie Classic" Blockbuster: Text Analytics in SAS Model Studio](https://github.com/SASInnovate2026/Predict-the-Next-Movie-Classic-Blockbuster-Text-Analytics-in-SAS-Model-Studio) |
 | 11:30-12:15 | [Getting Started with SAS® Visual Analytics](https://github.com/SASInnovate2026/Getting-Started-with-SAS-Visual-Analytics) | [Accessing data files on Cloud Object Storage from SAS® Viya](https://github.com/SASInnovate2026/Accessing-data-files-on-Cloud-Object-Storage-from-SAS-Viya) |
