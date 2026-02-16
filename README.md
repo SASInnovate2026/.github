@@ -4,7 +4,7 @@
 
 ### Tuesday, April 28, 2026 
 
-| | Vineyard Tower - High Plains | Vineyard Tower - Mesilla | San Saba 1 | San Saba 2 |
+| | Vineyard Tower - High Plains  (Hands On Workshop) | Vineyard Tower - Mesilla (Hands On Workshop) | San Saba 1 (Learning Lab) | San Saba 2 (Learning Session) |
 |---|---|---|---|---|
 | 10:30-11:15 | [SAS Viya Overview: The Analytics Life Cycle](https://github.com/SASInnovate2026/SAS-Viya-Overview-The-Analytics-Life-Cycle) | [Taking Back Control with the Interactive Modeling Node in SAS® Visual Forecasting](https://github.com/SASInnovate2026/Taking-Back-Control-with-the-Interactive-Modeling-Node-in-SAS-Visual-Forecasting) | [Mapping Spatial Data with SAS Code](https://github.com/SASInnovate2026/Mapping-Spatial-Data-with-SAS-Code) | [Simplifying SAS® Viya®: Explaining the Compute and CAS Servers, Caslibs, and In-Memory Data](https://github.com/SASInnovate2026/Simplifying-SAS-Viya-Explaining-the-Compute-and-CAS-Servers-Caslibs-and-In-Memory-Data) |
 | 1:00-1:45 | [Getting Started with SAS® Visual Analytics](https://github.com/SASInnovate2026/Getting-Started-with-SAS-Visual-Analytics) | [Get to Know SAS® Studio](https://github.com/SASInnovate2026/Get-to-Know-SAS-Studio) | [Create Custom Steps with SAS® Studio](https://github.com/SASInnovate2026/Create-Custom-Steps-with-SAS-Studio) | [Using SAS® Viya® Copilot to Develop Code, Reports, and Models](https://github.com/SASInnovate2026/Using-SAS-Viya-Copilot-to-Develop-Code-Reports-and-Models) |
