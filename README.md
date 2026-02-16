@@ -5,8 +5,6 @@
 ### The Conference Website has our sessions categorized as :
 - Hands-On Workshops
 - Learning Sessions
-- Pre-Conference Training
-
 
 ## Hands-On Workshops
 
@@ -59,15 +57,6 @@
 - [Using SAS® Viya® Copilot to Develop Code, Reports, and Models](https://github.com/SASInnovate2026/Using-SAS-Viya-Copilot-to-Develop-Code-Reports-and-Models)
 - [You + Me + ChatGPT Make Three: Getting Started with SAS® Coding](https://github.com/SASInnovate2026/You-Me-ChatGPT-Make-Three-Getting-Started-with-SAS-Coding)
 
-
-## Pre-Conference Training
-
-- [SAS® Viya Overview](https://github.com/SASInnovate2026/SAS-Viya-Overview)
-- [Explore Data and Build Reports with SAS® Visual Analytics](https://github.com/SASInnovate2026/Explore-Data-and-Build-Reports-with-SAS-Visual-Analytics)
-- [Migrating SAS® 9.4 Content to the SAS Viya Platform](https://github.com/SASInnovate2026/Migrating-SAS-9.4-Content-to-the-SAS-Viya-Platform)
-- [Getting Started with Generative AI](https://github.com/SASInnovate2026/Getting-Started-with-Generative-AI)
-- [Quantum AI Concepts](https://github.com/SASInnovate2026/Quantum-AI-Concepts)
-- [SAS Studio for the Data Engineer](https://github.com/SASInnovate2026/SAS-Studio-for-the-Data-Engineer)
 
 <br>
 <br>
