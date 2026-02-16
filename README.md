@@ -2,7 +2,7 @@
 
 <br/>
 
-! Tuesday, April 28, 2026 |
+| Tuesday, April 28, 2026 |
 | Vineyard Tower - High Plains | Vineyard Tower - Mesilla | San Saba 1 | San Saba 2 |
 | Hands On Workshop | Hands On Workshop | Learning Lab | Learning Session |
 |---|---|---|---}
