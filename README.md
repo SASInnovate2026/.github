@@ -5,7 +5,7 @@
 | Tuesday, April 28, 2026 |
 | Vineyard Tower - High Plains | Vineyard Tower - Mesilla | San Saba 1 | San Saba 2 |
 | Hands On Workshop | Hands On Workshop | Learning Lab | Learning Session |
-|---|---|---|---}
+|---|---|---|---|
 | [SAS Viya Overview: The Analytics Life Cycle](https://github.com/SASInnovate2026/SAS-Viya-Overview-The-Analytics-Life-Cycle) | [Taking Back Control with the Interactive Modeling Node in SAS® Visual Forecasting](https://github.com/SASInnovate2026/Taking-Back-Control-with-the-Interactive-Modeling-Node-in-SAS-Visual-Forecasting) | [Mapping Spatial Data with SAS Code](https://github.com/SASInnovate2026/Mapping-Spatial-Data-with-SAS-Code) | [Simplifying SAS® Viya®: Explaining the Compute and CAS Servers, Caslibs, and In-Memory Data](https://github.com/SASInnovate2026/Simplifying-SAS-Viya-Explaining-the-Compute-and-CAS-Servers-Caslibs-and-In-Memory-Data) |
 
 
