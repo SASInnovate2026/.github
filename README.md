@@ -13,7 +13,6 @@
 | 4:00-4:45 | [SAS for Microsoft 365](https://github.com/SASInnovate2026/SAS-for-Microsoft-365) | [SAS Programming with an AI Assistant](https://github.com/SASInnovate2026/SAS-Programming-with-an-AI-Assistant) | [Easily Turn Your Automated Explanation into a Predictive Model](https://github.com/SASInnovate2026/Easily-Turn-Your-Automated-Explanation-into-a-Predictive-Model) | [Structuring data for Analytics](https://github.com/SASInnovate2026/Structuring-data-for-Analytics) |
 <br>
 <br>
-<br>
 
 ### Wednesday, April 29, 2026 
 
@@ -25,6 +24,15 @@
 | 2:45 - 3:30 | [No-code Data Generation using SAS Data Maker](https://github.com/SASInnovate2026/No-code-Data-Generation-using-SAS-Data-Maker) |  [Ethical Data Analysis using SAS® Viya](https://github.com/SASInnovate2026/Ethical-Data-Analysis-using-SAS-Viya) | [Subflows in SAS® Viya®](https://github.com/SASInnovate2026/Subflows-in-SAS-Viya) | [Integrating R Programming in SAS®](https://github.com/SASInnovate2026/Integrating-R-Programming-in-SAS-) |
 | 3:45 - 4:30 | [The Polyglot Data Scientist: SAS, Python, & R in SAS Viya Workbench](https://github.com/SASInnovate2026/The-Polyglot-Data-Scientist-SAS-Python-R-in-SAS-Viya-Workbench) | [Data-Driven Programming with CAS in SAS® Viya®](https://github.com/SASInnovate2026/Data-Driven-Programming-with-CAS-in-SAS-Viya) | [Taking Back Control with the Interactive Modeling Node in SAS® Visual Forecasting](https://github.com/SASInnovate2026/Taking-Back-Control-with-the-Interactive-Modeling-Node-in-SAS-Visual-Forecasting) | [Top 10 Performance Tuning Tips](https://github.com/SASInnovate2026/Top-10-performance-tuning-tips) |
 | 4:45 - 5:30 | [Getting Started with SAS® Intelligent Decisioning](https://github.com/SASInnovate2026/Getting-Started-with-SAS-Intelligent-Decisioning) | [Microsoft Excel Proficiency with SAS® : Unlocking Data Insights and Dynamic Reporting](https://github.com/SASInnovate2026/Microsoft-Excel-Proficiency-with-SAS-Unlocking-Data-Insights-and-Dynamic-Reporting) | [Using Expression-Based Parameters in SAS® Visual Analytics](https://github.com/SASInnovate2026/Using-Expression-Based-Parameters-in-SAS-Visual-Analytics) | [Using SAS® Viya® Copilot to Develop Code, Reports, and Models](https://github.com/SASInnovate2026/Using-SAS-Viya-Copilot-to-Develop-Code-Reports-and-Models) |
+<br>
+
+### Thursday, April 30, 2026 
+
+| | Vineyard Tower - High Plains | Vineyard Tower - Mesilla |
+|---|---|---|
+| 10:30-11:15 | [SAS Viya Overview: The Analytics Life Cycle](https://github.com/SASInnovate2026/SAS-Viya-Overview-The-Analytics-Life-Cycle) | [Predict the Next "Movie Classic" Blockbuster: Text Analytics in SAS Model Studio](https://github.com/SASInnovate2026/Predict-the-Next-Movie-Classic-Blockbuster-Text-Analytics-in-SAS-Model-Studio) |
+| 11:30-12:15 | [Getting Started with SAS® Visual Analytics](https://github.com/SASInnovate2026/Getting-Started-with-SAS-Visual-Analytics) | [Accessing data files on Cloud Object Storage from SAS® Viya](https://github.com/SASInnovate2026/Accessing-data-files-on-Cloud-Object-Storage-from-SAS-Viya) |
+
 
 
 ### The Conference Website has our sessions categorized as :
