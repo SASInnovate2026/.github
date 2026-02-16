@@ -12,6 +12,17 @@
 | 3:00-3:45 | [Using SAS Viya Jobs and Visual Analytics](https://github.com/SASInnovate2026/Using-SAS-Viya-Jobs-and-Visual-Analytics) | [Options for Analyzing Database Tables Using SQL and FedSQL](https://github.com/SASInnovate2026Workshops/Options-for-Analyzing-Database-Tables-Using-SQL-and-FedSQL) | [Integrating SAS® Enterprise Guide with SAS® Viya®](https://github.com/SASInnovate2026/Integrating-SAS-Enterprise-Guide-with-SAS-Viya) | [SAS® Intelligent Decisioning](https://github.com/SASInnovate2026/SAS-Intelligent-Decisioning) |
 | 4:00-4:45 | [SAS for Microsoft 365](https://github.com/SASInnovate2026/SAS-for-Microsoft-365) | [SAS Programming with an AI Assistant](https://github.com/SASInnovate2026/SAS-Programming-with-an-AI-Assistant) | [Easily Turn Your Automated Explanation into a Predictive Model](https://github.com/SASInnovate2026/Easily-Turn-Your-Automated-Explanation-into-a-Predictive-Model) | [Structuring data for Analytics](https://github.com/SASInnovate2026/Structuring-data-for-Analytics) |
 
+### Wednesday, April 29, 2026 
+
+| | Vineyard Tower - High Plains | Vineyard Tower - Mesilla | San Saba 1 | San Saba 2 |
+|---|---|---|---|---|
+| 10:30-11:15 | [Geo mapping with SAS® Visual Analytics](https://github.com/SASInnovate2026/Geo-mapping-with-SAS-Visual-Analytics) | [How Do I Modify SAS9 Programs to Run in SAS Viya?](https://github.com/SASInnovate2026/How-Do-I-Modify-SAS9-Programs-to-Run-in-SAS-Viya) | [Quick Start to the SAS® Macro Language](https://github.com/SASInnovate2026/Quick-Start-to-the-SAS-Macro-Language) | [You + Me + ChatGPT Make Three: Getting Started with SAS® Coding](https://github.com/SASInnovate2026/You-Me-ChatGPT-Make-Three-Getting-Started-with-SAS-Coding) |
+| 1:00-1:45 | [Dashboarding:  Where Data Becomes Insights](https://github.com/SASInnovate2026/Dashboarding-Where-Data-Becomes-Insights) | [Tips & Tricks for Building a Custom Step in SAS Viya](https://github.com/SASInnovate2026/Tips-Tricks-for-Building-a-Custom-Step-in-SAS-Viya) | [Quick Start to the SAS® DATA Step](https://github.com/SASInnovate2026/Quick-Start-to-the-SAS-DATA-Step) | [Top 10 SAS® Viya® Administration Tasks](https://github.com/SASInnovate2026/Top-10-SAS-Viya-Administration-Tasks) |
+| 2:00-2:45 |  |  |  |  |
+| 3:00-3:45 |  |  |  |  |
+| 4:00-4:45 |  |  |  |  |
+
+
 ### The Conference Website has our sessions categorized as :
 - Hands-On Workshops
 - Learning Sessions
@@ -23,7 +34,7 @@
 - [Data-Driven Programming with CAS in SAS® Viya®](https://github.com/SASInnovate2026/Data-Driven-Programming-with-CAS-in-SAS-Viya)
 - [Dashboarding:  Where Data Becomes Insights](https://github.com/SASInnovate2026/Dashboarding-Where-Data-Becomes-Insights)
 - [Ethical Data Analysis using SAS® Viya](https://github.com/SASInnovate2026/Ethical-Data-Analysis-using-SAS-Viya)
-- [Geo mapping with SAS® Visual Analytics](https://github.com/SASInnovate2026/Geo-mapping-with-SAS-Visual-Analytics)
+- 
 - [Get to Know SAS® Studio](https://github.com/SASInnovate2026/Get-to-Know-SAS-Studio)
 - [Getting Started with SAS® Intelligent Decisioning](https://github.com/SASInnovate2026/Getting-Started-with-SAS-Intelligent-Decisioning)
 - [Getting Started with SAS® Visual Analytics](https://github.com/SASInnovate2026/Getting-Started-with-SAS-Visual-Analytics)
