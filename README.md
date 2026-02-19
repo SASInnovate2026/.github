@@ -29,8 +29,8 @@
 
 | | Vineyard Tower - High Plains  <br> (Hands On Workshop) | Vineyard Tower - Mesilla <br> (Hands On Workshop) |
 |---|---|---|
-| 10:30-11:15 | [SAS Viya Overview: The Analytics Life Cycle](https://github.com/SASInnovate2026/SAS-Viya-Overview-The-Analytics-Life-Cycle) | [Predict the Next "Movie Classic" Blockbuster: Text Analytics in SAS Model Studio](https://github.com/SASInnovate2026/Predict-the-Next-Movie-Classic-Blockbuster-Text-Analytics-in-SAS-Model-Studio) |
-| 11:30-12:15 | [Getting Started with SAS® Visual Analytics](https://github.com/SASInnovate2026/Getting-Started-with-SAS-Visual-Analytics) | [Accessing data files on Cloud Object Storage from SAS® Viya](https://github.com/SASInnovate2026/Accessing-data-files-on-Cloud-Object-Storage-from-SAS-Viya) |
+| 9:00-9:45 | [SAS Viya Overview: The Analytics Life Cycle](https://github.com/SASInnovate2026/SAS-Viya-Overview-The-Analytics-Life-Cycle) | [Predict the Next "Movie Classic" Blockbuster: Text Analytics in SAS Model Studio](https://github.com/SASInnovate2026/Predict-the-Next-Movie-Classic-Blockbuster-Text-Analytics-in-SAS-Model-Studio) |
+| 10:00-10:45 | [Getting Started with SAS® Visual Analytics](https://github.com/SASInnovate2026/Getting-Started-with-SAS-Visual-Analytics) | [Accessing data files on Cloud Object Storage from SAS® Viya](https://github.com/SASInnovate2026/Accessing-data-files-on-Cloud-Object-Storage-from-SAS-Viya) |
 
 
 
